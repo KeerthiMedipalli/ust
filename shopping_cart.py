@@ -1,6 +1,6 @@
 items=['Bread','Cookies','Butter','Cheese','Yogurt']
 prices=[40,80,120,180,60]
-print(list())
+print(items())
 cart=[]
 while True:
     print("What do you want to do?")
