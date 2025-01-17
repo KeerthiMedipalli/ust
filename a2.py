@@ -1,3 +1,4 @@
+//Q1
 class BookStore:
     NoOfBooks = 0
     def __init__(self, name, author):
